@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container{
+  position: relative;
+  margin: 2%;
+  height: 90%;
+  width: 95%;
+  text-align: center;
+}
+
+.addBtn{
+  color: black;
+  font-weight: bold;
+  border:none;
+  background-color: orange;
+  padding: 2% 5%;
+}
+
+#title{
+  text-align: center;
+  color: orange;
+  height: 15%;
+  width: 100%;
+  background: #333;
+  padding: 2% 0;
+}
+
+.recipe{
+  text-align: center;
+
+}
+.recipe ul{
+    text-align: left;
+}
